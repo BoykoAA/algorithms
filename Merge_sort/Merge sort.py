@@ -1,3 +1,5 @@
+#Количество инверсий
+
 def merge(a, b):
     tmp = []
     global k
@@ -29,7 +31,7 @@ if __name__ == '__main__':
     k = 0
     main()
 
-# Второй вариант
+# Сортировка
     # def merg_sort(A):
     #
     #     if len(A) <= 1:
